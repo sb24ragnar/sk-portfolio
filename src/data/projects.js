@@ -17,6 +17,24 @@ export const projects = [
   },
 
   {
+  title: "Graduate Job Match AI",
+  subtitle: "AI-powered CV and job description matching platform",
+  description:
+    "Built a full-stack AI application that compares CVs with graduate job descriptions using semantic retrieval, vector embeddings, and match scoring. The platform highlights skill gaps and generates tailored interview prep and CV improvement suggestions.",
+  tech: ["Next.js", "FastAPI", "Python", "PostgreSQL", "pgvector", "OpenAI", "Tailwind CSS"],
+  highlights: [
+    "Implemented CV upload and parsing workflow",
+    "Used vector embeddings for semantic job-to-CV comparison",
+    "Built a match scoring engine for role-fit analysis",
+    "Generated interview prep and CV feedback based on job requirements"
+  ],
+  links: {
+    github: "https://github.com/sb24ragnar/AI_Resume_Analysis",
+    demo: ""
+  }
+
+},
+  {
   title: "Oil Price Forecasting with ARIMA and Prophet",
   impact:
     "Built a time series forecasting pipeline on volatile crude oil prices, comparing ARIMA and Prophet to evaluate forecast accuracy, seasonality, and model behaviour under market volatility.",
