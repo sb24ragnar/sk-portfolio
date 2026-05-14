@@ -7,5 +7,5 @@ export const profile = {
   github: "https://github.com/sb24ragnar",
   linkedin: "https://www.linkedin.com/in/sai-kumar-bylapudi-814b32211/",
   email: "sairishikpavan@gmail.com",
-  cvPath: "/SaiKumar_Bylapudi_Graduate.pdf",
+  cvPath: "/SaiKumar_Bylapudi_Graduate.docx",
 };
